@@ -1,0 +1,9 @@
+C:\Users\Fallensn0w\AppData\Local\Temporary Projects\iDetector4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fallensn0w\AppData\Local\Temporary Projects\iDetector4\obj\x86\Debug\iDetector4.Form1.resources
+C:\Users\Fallensn0w\AppData\Local\Temporary Projects\iDetector4\obj\x86\Debug\iDetector4.Properties.Resources.resources
+C:\Users\Fallensn0w\AppData\Local\Temporary Projects\iDetector4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fallensn0w\AppData\Local\Temporary Projects\iDetector4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fallensn0w\AppData\Local\Temporary Projects\iDetector4\bin\Debug\iDetector4.exe
+C:\Users\Fallensn0w\AppData\Local\Temporary Projects\iDetector4\bin\Debug\iDetector4.pdb
+C:\Users\Fallensn0w\AppData\Local\Temporary Projects\iDetector4\obj\x86\Debug\iDetector4.exe
+C:\Users\Fallensn0w\AppData\Local\Temporary Projects\iDetector4\obj\x86\Debug\iDetector4.pdb
